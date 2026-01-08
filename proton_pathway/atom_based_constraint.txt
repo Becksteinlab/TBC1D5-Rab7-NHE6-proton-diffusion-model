@@ -1,0 +1,16 @@
+ {
+    'type': 'brick',	
+    'remove_asa_shell': False,   # True or False
+
+    # lower left front corner of the orthorhombic box
+    'chain1': 'B',              
+    'res_num1': 22,             
+    'atom1': 'NH2',             
+    'offset1': (0,0, -5),
+                                
+    # upper right back corner
+    'chain2': 'F',              
+    'res_num2': 128,            
+    'atom2': 'O',              
+    'offset2': (0,0,10),    # extend towards IC
+ }   

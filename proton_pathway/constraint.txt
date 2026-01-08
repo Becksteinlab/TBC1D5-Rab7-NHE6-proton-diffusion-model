@@ -1,0 +1,10 @@
+ {
+    'type': 'coordbrick',	
+    'remove_asa_shell': False,   # True or False
+
+    # lower left front corner of the orthorhombic box
+    'coord1': (-49.275047, -23.634737, -32.318233),
+                                
+    # upper right back corner
+    'coord2': (49.35033417, 23.93759727, 38.40119743),
+ }   
