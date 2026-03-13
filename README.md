@@ -112,5 +112,10 @@ Contains Jupyter notebooks implementing analytical solutions for proton diffusio
    - Run `diffusion/Diffusion3D_spherical.ipynb` for 3D spherical model
 
 ## License
-All content licensed under MIT.
+All content licensed under the [MIT License](LICENSE).
+
+## Citation
+
+YouJin Lee, Qing Ouyang, Li Ma, Morgan Fleishman, Hasib Aamir Riaz, Michael Schmidt, Jeffrey L. Dupree, Anupam Mondal, Priyesh Mohanty, Jeetain Mittal, Oliver Beckstein, David G. Lambright, and Eric M. Morrow. _Endosome maturation is orchestrated by inside-out proton signaling through a Na<sup>+</sup>/H<sup>+</sup> exchanger and pH-dependent Rab GTPase cycling_. **Nature Communications** (2026) accepted.
+
 
