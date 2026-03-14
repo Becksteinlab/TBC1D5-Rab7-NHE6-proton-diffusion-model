@@ -61,6 +61,21 @@ Contains Jupyter notebooks implementing analytical solutions for proton diffusio
   - Investigates effects of reduced diffusion coefficients
   - The hemispherical model does not generate a sufficiently acidic local pH near H207.
 
+### `visualization/`
+Contains a [VMD](https://www.ks.uiuc.edu/Research/vmd/) tcl file `drawing.tcl`  with functions for drawing
+- a hemisphere `draw_hemisphere`
+- a cylinder between two coordinates `draw_cylinder_along`
+- two parallel planes to indicate a membrane `draw_membrane`
+
+Usage: Within VMD's tcl window
+```tcl
+source drawing.tcl
+```
+to make all functions available.
+
+See `drawing.tcl` for details.
+
+
 
 ## Key Residues
 
