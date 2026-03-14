@@ -1,0 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TBC1D5-Rab7-NHE6 Proton Diffusion Model
+message: >-
+  Please cite this software using the metadata from
+  "preferred-citation"
+type: software
+authors:
+  - given-names: Oliver
+    family-names: Beckstein
+    email: oliver.beckstein@asu.edu
+    affiliation: Arizona State University
+    orcid: 'https://orcid.org/0000-0003-1340-0831'
+repository-code: >-
+  https://github.com/Becksteinlab/TBC1D5-Rab7-NHE6-proton-diffusion-model
+abstract: >-
+  This repository contains computational models and analyses
+  for studying proton diffusion in the TBC1D5-Rab7-NHE6
+  protein complex. The project investigates how protons
+  released from NHE6 (Na+/H+ exchanger 6) diffuse through
+  the complex to reach the pH sensor site in TBC1D5 (Rab7
+  GTPase-activating protein).
+keywords:
+  - diffusion
+  - protein
+  - protons
+  - structural biology
+license: MIT
+preferred-citation:
+  type: article
+  title: "Endosome maturation is orchestrated by inside-out proton signaling through a Na+/H+ exchanger and pH-dependent Rab GTPase cycling"
+  authors:
+    - family-names: Lee
+      given-names: YouJin
+    - family-names: Ouyang
+      given-names: Qing
+    - family-names: Ma
+      given-names: Li
+    - family-names: Fleishman
+      given-names: Morgan
+    - family-names: Riaz
+      given-names: Hasib Aamir
+    - family-names: Schmidt
+      given-names: Michael
+    - family-names: Dupree
+      given-names: Jeffrey L.
+    - family-names: Mondal
+      given-names: Anupam
+    - family-names: Mohanty
+      given-names: Priyesh
+    - family-names: Mittal
+      given-names: Jeetain
+    - family-names: Beckstein
+      given-names: Oliver
+    - family-names: Lambright
+      given-names: David G.
+    - family-names: Morrow
+      given-names: Eric M.
+  journal: "Nature Communications"
+  year: 2026
