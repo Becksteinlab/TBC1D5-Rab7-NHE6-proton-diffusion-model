@@ -8,11 +8,21 @@ message: >-
   "preferred-citation"
 type: software
 authors:
-  - given-names: Oliver
-    family-names: Beckstein
+  - family-names: Beckstein
+    given-names: Oliver    
     email: oliver.beckstein@asu.edu
     affiliation: Arizona State University
     orcid: 'https://orcid.org/0000-0003-1340-0831'
+  - family-names: Lee
+    given-names: YouJin
+    affiliation: Brown University
+  - family-names: Lambright
+    given-names: David G.
+    affiliation: University of Massachusetts Chan Medical School
+  - family-names: Morrow
+    given-names: Eric M.
+    affiliation: Brown University
+
 repository-code: >-
   https://github.com/Becksteinlab/TBC1D5-Rab7-NHE6-proton-diffusion-model
 abstract: >-
@@ -58,5 +68,6 @@ preferred-citation:
       given-names: David G.
     - family-names: Morrow
       given-names: Eric M.
+      email:  eric_morrow@brown.edu
   journal: "Nature Communications"
   year: 2026
