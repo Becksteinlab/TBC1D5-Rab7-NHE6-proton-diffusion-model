@@ -1,4 +1,7 @@
 # TBC1D5-Rab7-NHE6 Proton Diffusion Model
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19011503.svg)](https://doi.org/10.5281/zenodo.19011503)
+
+
 
 This repository contains computational models and analyses for studying proton diffusion in the TBC1D5-Rab7-NHE6 protein complex. The project investigates how protons released from NHE6 (Na+/H+ exchanger 6) diffuse through the complex to reach the pH sensor site in TBC1D5 (Rab7 GTPase-activating protein).
 
@@ -134,3 +137,4 @@ All content licensed under the [MIT License](LICENSE).
 YouJin Lee, Qing Ouyang, Li Ma, Morgan Fleishman, Hasib Aamir Riaz, Michael Schmidt, Jeffrey L. Dupree, Anupam Mondal, Priyesh Mohanty, Jeetain Mittal, Oliver Beckstein, David G. Lambright, and Eric M. Morrow. _Endosome maturation is orchestrated by inside-out proton signaling through a Na<sup>+</sup>/H<sup>+</sup> exchanger and pH-dependent Rab GTPase cycling_. **Nature Communications** (2026) accepted.
 
 
+The software and data are archived on zenodo under the DOI [10.5281/zenodo.19011503](https://doi.org/10.5281/zenodo.19011503).
