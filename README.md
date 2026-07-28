@@ -134,7 +134,7 @@ All content licensed under the [MIT License](LICENSE).
 
 ## Citation
 
-YouJin Lee, Qing Ouyang, Li Ma, Morgan Fleishman, Hasib Aamir Riaz, Michael Schmidt, Jeffrey L. Dupree, Anupam Mondal, Priyesh Mohanty, Jeetain Mittal, Oliver Beckstein, David G. Lambright, and Eric M. Morrow. _Endosome maturation is orchestrated by inside-out proton signaling through a Na<sup>+</sup>/H<sup>+</sup> exchanger and pH-dependent Rab GTPase cycling_. **Nature Communications** (2026) accepted.
+YouJin Lee, Qing Ouyang, Li Ma, Morgan Fleishman, Hasib Aamir Riaz, Michael Schmidt, Jeffrey L. Dupree, Anupam Mondal, Priyesh Mohanty, Jeetain Mittal, Oliver Beckstein, David G. Lambright, and Eric M. Morrow. _Endosome maturation is orchestrated by inside-out proton signaling through a Na<sup>+</sup>/H<sup>+</sup> exchanger and pH-dependent Rab GTPase cycling_. **Nature Communications** 17 (2026) 6208. doi: [10.1038/s41467-026-72568-5](https://doi.org/10.1038/s41467-026-72568-5)
 
 
 The software and data are archived on zenodo under the DOI [10.5281/zenodo.19011503](https://doi.org/10.5281/zenodo.19011503).
